@@ -1,0 +1,21 @@
+export const INITIALIZE_APP = 'INITIALIZE_APP';
+export const HANDLE_ERROR = 'HANDLE_ERROR';
+
+export const LOAD_PAGES = 'LOAD_PAGES';
+export const LOAD_DEVICES = 'LOAD_DEVICES';
+
+export const ACTIVATE_PAGE = 'ACTIVATE_PAGE';
+export const SELECT_PAGE = 'SELECT_PAGE';
+export const CLOSE_PAGE = 'CLOSE_PAGE';
+
+export const ACTIVATE_DEVICE = 'ACTIVATE_DEVICE';
+export const SELECT_DEVICE = 'SELECT_DEVICE';
+export const CLOSE_DEVICE = 'CLOSE_DEVICE';
+export const CHANGE_DEVICE_ATTRIBUTE = 'CHANGE_DEVICE_ATTRIBUTE';
+export const TOGGLE_SWITCH = 'TOGGLE_SWITCH';
+
+export const ACTIVATE_BUTTON = 'ACTIVATE_BUTTON';
+export const CLICK_BUTTON = 'CLICK_BUTTON';
+
+
+export const SELECT_TV = 'SELECT_TV';
